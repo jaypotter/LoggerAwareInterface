@@ -6,6 +6,15 @@
         "php": "^8.3",
         "psr/log": "^3.0@dev"
     },
+    "suggest": {
+        "potter/logger-aware": "dev-main",
+        "potter/logger-interfaces": "dev-main",
+        "potter/logger": "dev-main",
+        "potter/aware-interfaces": "dev-main",
+        "potter/aware": "dev-main",
+        "potter/contracts": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
