@@ -1,6 +1,6 @@
 {
     "name": "potter/logger-aware-interface",
-    "description": "PHP Logger Aware Interface",
+    "description": "PHP Aware Interface for PSR-3 Loggers",
     "type": "library",
     "require": {
         "php": "^8.3",
@@ -27,5 +27,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
